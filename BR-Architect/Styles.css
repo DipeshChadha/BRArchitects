@@ -1,0 +1,72 @@
+.container0{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(183, 210, 236);
+}
+
+
+.List ul{
+    display:flex;
+    gap:30px;
+    list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+    color: black;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container{
+
+display:flex;
+gap:15px;
+flex-wrap:wrap;
+}
+
+.House{
+
+width:24%;
+}
+
+ h1 {
+      font-weight: normal;
+    }
+
+.House img{
+
+width:100%;
+}
+
+
+
+
+
+.container3{
+
+display:flex;
+gap:15px;
+flex-wrap:wrap;
+}
+
+.team{
+
+width:24%;
+}
+
+ 
+
+.team img{
+
+width:100%;
+}
+
+h3{
+color:grey
+}
